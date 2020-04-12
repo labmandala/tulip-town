@@ -372,9 +372,4 @@ body {
     grid-row: 3 / 5;
     height: 100%;
   }
-  /*
-  .photo__gallery {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  */
 }
